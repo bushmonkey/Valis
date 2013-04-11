@@ -181,7 +181,8 @@ import function level_up(int which);
 import function set_date(int daynum);
 import function get_partner();
 import function set_partner(int temppart);
-import function hurt_monster();
+import function hurt_monster(int monsterindex);
+import function kill_monster(int monsterindex);
 import function introtext(string buffer, int x, int y);// Automatically converted interaction variables
 import function RemoveMission(int MissionIndex);
 import function TweenRevealGUI(GUI* GUIindex);

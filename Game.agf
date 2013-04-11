@@ -15892,7 +15892,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2004-09-30 01:44:28Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2004-09-30 02:44:28Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aMusic2</ScriptName>
@@ -15928,7 +15928,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-08-05 00:16:22Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-08-05 01:16:22Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -15988,7 +15988,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-05-30 23:12:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-05-31 00:12:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <ScriptName>aSound5</ScriptName>
@@ -16000,7 +16000,7 @@ stop
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-06-25 19:54:38Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-06-25 20:54:38Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
